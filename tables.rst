@@ -1,7 +1,7 @@
 +-----------+-----------+---------+
 |Header 1   | Header 2  | Header 3|
 +-----------+-----------+---------+
-|body row 1 |clmn**2**  | column 3|
+|body row 1 |clmn **2** | column 3|
 +-----------+-----------+---------+
 
 some *other* text 
